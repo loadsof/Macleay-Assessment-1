@@ -10,12 +10,16 @@ body {
 }
 h1  {
     color: #2DAd7c;
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Bluunext-bold, Georgia, 'Times New Roman', Times, serif
 }
-h3  {
+h2  {
     color: #2DAd7c;
-    font-family: Helvetica, sans-serif
+    font-family: Lack-Line-Regular, Arial, Helvetica, sans-serif
 }
+h3 {
+    font-family:  Helvetica, sans-serif
+}
+
 h5  {
     color: #E85000;
     font-family: Helvetica, sans-serif
@@ -23,4 +27,9 @@ h5  {
 
 header {
     background-color:#ffffff;
+}
+@import url("https://fonts.googleapis.com/css?family=Lato:400,400i,700");
+
+body {
+  font-family: Lato, sans-serif;
 }
